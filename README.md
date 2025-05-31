@@ -41,7 +41,5 @@
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogabriel99&layout=compact&theme=ligth)
 #
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flaviogabriel99&theme=ligth)
-#
 # Minhas Contribuições 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=flaviogabriel99&theme=light)
